@@ -24,9 +24,9 @@ export default function About1() {
                                 <Link href="/contact"><img src="/assets/images/client-logos/client-logo1.png" alt="Client Logo" /></Link>
                                 <Link href="/contact"><img src="/assets/images/client-logos/client-logo2.png" alt="Client Logo" /></Link>
                                 <Link href="/contact"><img src="/assets/images/client-logos/client-logo3.png" alt="Client Logo" /></Link>
-                                <Link href="/contact"><img src="/assets/images/client-logos/client-logo4.png" alt="Client Logo" /></Link>
+                                <Link href="/contact"><img src="/assets/images/client-logos/client-logo10.png" alt="Client Logo" /></Link>
                                 <Link href="/contact"><img src="/assets/images/client-logos/client-logo5.png" alt="Client Logo" /></Link>
-                                <Link href="/contact"><img src="/assets/images/client-logos/client-logo6.png" alt="Client Logo" /></Link>
+                                <Link href="/contact"><img src="/assets/images/client-logos/client-logo11.png" alt="Client Logo" /></Link>
                             </div>
                         </div>
                     </div>

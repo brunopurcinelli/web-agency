@@ -10,7 +10,7 @@ export default function Team() {
                         <div className="col-xl-7 col-lg-9">
                             <div className="section-title text-center mb-70 wow fadeInUp delay-0-2s">
                                 <span className="sub-title mb-15">team member of company</span>
-                                <h2>Extra ordinary <span>creation</span> Team behind</h2>
+                                <h2>Equipe de <span>criação</span> estraordinária</h2>
                             </div>
                         </div>
                     </div>
@@ -18,6 +18,20 @@ export default function Team() {
                 <div className="container container-1450">
                     <div className="row justify-content-center">
                         <div className="col-xl-3 col-lg-4 col-sm-6">
+                            <div className="team-member wow fadeInUp delay-0-2s">
+                                <div className="image">
+                                    <img src="/assets/images/team/team1.jpg" alt="Team" />
+                                </div>
+                                <div className="content">
+                                    <span className="designation">Creative Director</span>
+                                    <h6>Bruno Purcinelli</h6>
+                                    <div className="social-style-two">
+                                        <Link href="#"><i className="fab fa-linkedin" /></Link>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        {/* <div className="col-xl-3 col-lg-4 col-sm-6">
                             <div className="team-member wow fadeInUp delay-0-2s">
                                 <div className="image">
                                     <img src="/assets/images/team/team1.jpg" alt="Team" />
@@ -84,7 +98,7 @@ export default function Team() {
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
                 <div className="team-shapes">

@@ -22,7 +22,7 @@ export default function Home() {
   return (
     <>
 
-        <Layout headerStyle={1} footerStyle={1} bodyCls="home-one"  breadcrumbTitle="Home">
+        <Layout headerStyle={1} footerStyle={1} bodyCls="home-one"  breadcrumbTitle="">
             <Hero />
             <Headline1 />
             <About />
@@ -31,12 +31,12 @@ export default function Home() {
             <Headline2 />
             <AboutAgency />
             <Headline3 />
-            {/* <Portfolio /> */}
+            <Portfolio />
             {/* <Awward /> */}
             {/* <Headline4 /> */}
-            {/* <Team /> */}
-            <Testimonials />
-            {/* <Headline5 /> */}
+            <Team />
+            {/* <Testimonials /> */}
+            <Headline5 />
             {/* <Blog /> */}
             <LetsTalk />
         </Layout>

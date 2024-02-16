@@ -9,9 +9,9 @@ export default function Hero() {
                     <div className="row align-items-center">
                         <div className="col-lg-6 order-lg-2">
                             <div className="hero-content-part rmb-55">
-                                <h1 className="wow fadeInUp delay-0-2s"><img src="/assets/images/hero/PkTech.png" alt="Shape" /></h1>
+                                <h1 className="wow fadeInUp delay-0-2s"><img src="/assets/images/hero/PkTech.png" alt="Pk tech"/></h1>
                                 <div className="hero-sub-heading wow fadeInUp delay-0-4s">
-                                    <img src="/assets/images/hero/iconePk.png" alt="Shape" />
+                                    <img src="/assets/images/hero/iconePk.png" alt="Pktech" />
                                     <span className="agency-text">Soluções</span>
                                 </div>
                                 <div className="text wow fadeInUp delay-0-6s">Bem-vindo à <b>Pk Tech</b>! Somos uma empresa de desenvolvimento web profissional e confiável que oferece uma ampla gama de serviços para atender às suas necessidades.</div>
@@ -21,7 +21,7 @@ export default function Hero() {
                             <div className="hero-image-part">
                                 <div className="hero-main-img wow fadeInRight delay-0-2s">
                                     <img src="/assets/images/hero/hero-main.jpg" alt="Hero" />
-                                    <VideoPopup style={1}/>
+                                    {/* <VideoPopup style={1}/> */}
                                 </div>
                                 {/* <div className="mail-us wow fadeInRight delay-0-4s">
                                     <i className="far fa-at" />
