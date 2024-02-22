@@ -30,7 +30,7 @@ export default function Services1() {
                         <div className="col-lg-4 col-md-6">
                             <div className="service-item wow fadeInUp delay-0-4s">
                                 <div className="content">
-                                    <h5><Link href="/service-details">SOFTWERE DESIGN</Link></h5>
+                                    <h5><Link href="/service-details">SOFTWARE DESIGN</Link></h5>
                                     <p>Confira todos os serviços...</p>
                                 </div>
                                 <Link href="/service-details" className="details-btn"><i className="fal fa-long-arrow-right" /></Link>

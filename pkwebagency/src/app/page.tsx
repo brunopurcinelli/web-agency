@@ -32,12 +32,8 @@ export default function Home() {
             <AboutAgency />
             <Headline3 />
             <Portfolio />
-            {/* <Awward /> */}
-            {/* <Headline4 /> */}
             <Team />
-            {/* <Testimonials /> */}
             <Headline5 />
-            {/* <Blog /> */}
             <LetsTalk />
         </Layout>
     </>
